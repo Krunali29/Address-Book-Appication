@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f60e639d-c394-4227-be28-11e45074d038" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/controller/AddressBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/controller/AddressBookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/repository/AddressBookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/repository/AddressBookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/AddressBookAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/dto/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/dto/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/model/AddressBookData.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/java/com/bridgelabz/addressbookapp/model/AddressBookData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/addressbookapp/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Employee Payroll App Development/employeepayrollapp" />
   </component>
   <component name="RunManager">
     <configuration name="AddressBookAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
